@@ -35,7 +35,7 @@ You will be given a dataset and teams will be randomly assigned to one constrain
 - Your choice of samples
 
 ## Deliverables
-Your team will have until 5pm EST / 2pm PST (presentation time) to build the best model possible under those constraints.
+Your team will have until 6pm EST / 3pm PST (presentation time) to build the best model possible under those constraints.
 
 - Modeling, predictions csv, and slide deck done by 6pm EST / 3pm PST (presentation time)
 - Group presentations (_5 min, semi-technical audience_) with slide deck between 6-7pm EST / 3-4pm PST (presentation time)
