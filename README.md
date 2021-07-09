@@ -48,6 +48,6 @@ Your team will have until 6pm EST / 3pm PST (presentation time) to build the bes
 ### Submission
 ---
 
-The task is to predict if a person's income is in excess of $50,000 given certain profile information, and more specifically to generate the labels for income being **above** $50,000 for each row in the test set. This will simply be a _**csv called `group#-group-submission.csv`, for example `1-group-submission.csv`**_, with a single column of the predictions [0,1]. One member from each group will Slack the csv with your predictions to Kelly by 5pm EST / 2pm PST. Only one member from each group should submit the link to your GitHub repository to Google Classroom with final changes made by 12:00am EST / 9:00pm PST.
+The task is to predict if a person's income is in excess of $50,000 given certain profile information, and more specifically to generate the labels for income being **above** $50,000 for each row in the test set. This will simply be a _**csv called `group#-group-submission.csv`, for example `1-group-submission.csv`**_, with a single column of the predictions [0,1]. One member from each group will Slack the csv with your predictions to Patrick by 6pm EST / 3pm PST. Only one member from each group should submit the link to your GitHub repository to Google Classroom with final changes made by 12:00am EST / 9:00pm PST.
 
 Good luck!
