@@ -35,11 +35,11 @@ You will be given a dataset and teams will be randomly assigned to one constrain
 - Your choice of samples
 
 ## Deliverables
-Your team will have until 5pm EST / 2pm PST (presentation time) to build the best model possible under those constraints.
+Your team will have until 4pm EST (presentation time) to build the best model possible under those constraints.
 
-- Modeling, predictions csv, and slide deck done by 5pm EST / 2pm PST (presentation time)
-- Group presentations (_5 min, semi-technical audience_) with slide deck between 5-6pm EST / 2-3pm PST (presentation time)
-- Repo with organized notebooks and README.md due by 11:59 pm EST / 8:59pm PST
+- Modeling, predictions csv, and slide deck done by 4pm EST)
+- Group presentations (_5 min, semi-technical audience_) with slide deck between 4-5pm EST (presentation time)
+- Repo with organized notebooks due by 4pm EST
 
 # ![](https://media.giphy.com/media/aL4bDxt8fbpy8/giphy.gif)
 
@@ -48,6 +48,6 @@ Your team will have until 5pm EST / 2pm PST (presentation time) to build the bes
 ### Submission
 ---
 
-The task is to predict if a person's income is in excess of $50,000 given certain profile information, and more specifically to generate the labels for income being **above** $50,000 for each row in the test set. This will simply be a _**csv called `group#-group-submission.csv`, for example `1-group-submission.csv`**_, with a single column of the predictions [0,1]. One member from each group will Slack the csv with your predictions to Patrick by 5pm EST / 2pm PST. Only one member from each group should submit the link to your GitHub repository to Google Classroom with final changes made by 11:59am EST / 8:59pm PST.
+The task is to predict if a person's income is in excess of $50,000 given certain profile information, and more specifically to generate the labels for income being **above** $50,000 for each row in the test set. This will simply be a _**csv called `group#-group-submission.csv`, for example `1-group-submission.csv`**_, with a single column of the predictions [0,1]. One member from each group will Slack the csv with your predictions to Katie by 4pm EST. Only one member from each group should submit the link to your GitHub repository to Google Classroom.
 
 Good luck!
