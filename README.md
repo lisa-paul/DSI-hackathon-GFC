@@ -9,7 +9,7 @@ Well, there is a catch.
 
 This will be a constrained optimization. To understand what that means, let's take a look at the Project Management Venn Diagram, below.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pyragraph.com%2F2013%2F05%2Fgood-fast-cheap-you-can-only-pick-two%2F&psig=AOvVaw2OcYGjY4eVEppmimiKKWmR&ust=1678217496236000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPj3ob-FyP0CFQAAAAAdAAAAABAE)
+![](https://www.pyragraph.com/wp-content/uploads/2013/04/GOOD-FAST-CHEAP.jpg)
 
 The idea is that for any project you can have any two of these. You can have good work done cheap, but it will take a long time. You can have good work done fast, but it won't be cheap. Or you can have work done fast and on the cheap, but it won't be good.
 
