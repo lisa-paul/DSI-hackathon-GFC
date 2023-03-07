@@ -19,18 +19,23 @@ You will be given a dataset and teams will be randomly assigned to one constrain
 
 ---
 
-### Team Sample Constraint
+### Team 1 - Sample Constraint
 - Your choice of algorithm
 - Your choice of features
 - **Must use the cheap train sample**
 
-### Team Features Constraint
+### Team 2 - Features Constraint
 - Your choice of algorithm
 - **Limited to a maximum of 20 features**
 - Your choice of samples
 
-### Team Algorithm Constraint
+### Team 3 - Algorithm Constraint I
 - **Must use a Random Forest**
+- Your choice of features
+- Your choice of samples
+
+### Team 4 - Algorithm Constraint II
+- **Must use AdaBoost**
 - Your choice of features
 - Your choice of samples
 
