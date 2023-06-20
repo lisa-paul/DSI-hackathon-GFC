@@ -29,22 +29,17 @@ You will be given a dataset and teams will be randomly assigned to one constrain
 - **Limited to a maximum of 20 features**
 - Your choice of samples
 
-### Team 3 - Algorithm Constraint I
+### Team 3 - Algorithm Constraint
 - **Must use a Random Forest**
 - Your choice of features
 - Your choice of samples
 
-### Team 4 - Algorithm Constraint II
-- **Must use AdaBoost**
-- Your choice of features
-- Your choice of samples
-
 ## Deliverables
-Your team will have until 2pm EST (presentation time) to build the best model possible under those constraints.
+Your team will have until 11:30am EST (presentation time) to build the best model possible under those constraints.
 
-- Modeling, predictions csv, and slide deck done by 2pm EST)
-- Group presentations (_5 min, semi-technical audience_) with slide deck between 2-3pm EST (presentation time)
-- Repo with organized notebooks due by 2pm EST
+- Modeling, predictions csv, and slide deck done by 11:30am EST)
+- Group presentations (_5 min, semi-technical audience_) with slide deck between 11:30am-12pm EST (presentation time)
+- Repo with organized notebooks due by 11:30am EST
 
 # ![](https://media.giphy.com/media/aL4bDxt8fbpy8/giphy.gif)
 
@@ -53,6 +48,6 @@ Your team will have until 2pm EST (presentation time) to build the best model po
 ### Submission
 ---
 
-The task is to predict if a person's income is in excess of $50,000 given certain profile information, and more specifically to generate the labels for income being **above** $50,000 for each row in the test set. This will simply be a _**csv called `group#-group-submission.csv`, for example `1-group-submission.csv`**_, with a single column of the predictions [0,1]. One member from each group will Slack the csv with your predictions to Katie by 2pm EST. Only one member from each group should submit the link to your GitHub repository to Google Classroom.
+The task is to predict if a person's income is in excess of $50,000 given certain profile information, and more specifically to generate the labels for income being **above** $50,000 for each row in the test set. This will simply be a _**csv called `group#-group-submission.csv`, for example `1-group-submission.csv`**_, with a single column of the predictions [0,1]. One member from each group will Slack the csv with your predictions to Katie by 11:30am EST. Only one member from each group should submit the link to your GitHub repository to Google Classroom.
 
 Good luck!
